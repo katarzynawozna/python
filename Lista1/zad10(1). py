@@ -1,8 +1,0 @@
-import cmath
-
-z = 1j
-
-cmath.sin(z)
-cmath.cos(z)
-
-(cmath.sin(z))**2 + (cmath.cos(z))**2

@@ -1,7 +1,0 @@
-import math
-
-sin(z.imag)
-cos(z.imag)
-
-
-(cmath.sin(z.imag))**2 + (cmath.cos(z.imag))**2
